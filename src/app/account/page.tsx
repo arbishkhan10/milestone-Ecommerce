@@ -48,7 +48,7 @@ const AccountPage = () => {
                             <label className="block text-gray-600 mb-2">First Name</label>
                             <input
                                 type="text"
-                                placeholder="Tayyaba"
+                                placeholder="muniba"
                                 className="bg-gray-100 p-3 w-full rounded-md border focus:outline-none focus:ring-2 focus:ring-red-300"
                             />
                         </div>
@@ -56,7 +56,7 @@ const AccountPage = () => {
                             <label className="block text-gray-600 mb-2">Last Name</label>
                             <input
                                 type="text"
-                                placeholder="Ramzan"
+                                placeholder="fatima"
                                 className="bg-gray-100 p-3 w-full rounded-md border focus:outline-none focus:ring-2 focus:ring-red-300"
                             />
                         </div>
@@ -68,7 +68,7 @@ const AccountPage = () => {
                             <label className="block text-gray-600 mb-2">Email</label>
                             <input
                                 type="email"
-                                placeholder="tayyabaramzan@gmail.com"
+                                placeholder="muniba11@gmail.com"
                                 className="bg-gray-100 p-3 w-full rounded-md border focus:outline-none focus:ring-2 focus:ring-red-300"
                             />
                         </div>
